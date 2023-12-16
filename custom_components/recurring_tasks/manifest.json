@@ -1,0 +1,8 @@
+{
+  "domain": "recurring_tasks",
+  "name": "Recurring Tasks",
+  "documentation": "https://github.com/Aephir/ha-recurring-tasks",
+  "dependencies": [],
+  "codeowners": ["@Aephir"],
+  "requirements": []
+}

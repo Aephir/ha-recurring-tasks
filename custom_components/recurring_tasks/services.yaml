@@ -1,0 +1,6 @@
+mark_done:
+  description: Mark a task as done.
+  fields:
+    name:
+      description: Name of the task.
+      example: "Clean Fume Hood"
