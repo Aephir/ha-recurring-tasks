@@ -4,5 +4,8 @@
   "documentation": "https://github.com/Aephir/ha-recurring-tasks",
   "dependencies": [],
   "codeowners": ["@Aephir"],
-  "requirements": []
+  "requirements": [],
+  "version": "0.0.1",
+  "integration_type": "service",
+  "iot_class": "calculated"
 }

@@ -1,6 +1,7 @@
 __pycache__
 pythonenv*
 venv
+example_config.yaml
 .venv
 .coverage
 .idea
